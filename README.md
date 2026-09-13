@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanmay Rajaura</h1>
-<h3 align="center">AI/ML Undergrad | Building deep learning & full-stack projects end-to-end</h3>
+<h3 align="center">AI/ML Undergrad | Building LLM & RAG Systems, Full-Stack Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=AI%2FML+%7C+Deep+Learning+%7C+Full-Stack+Dev;Building+CNNs%2C+RAG+pipelines+%26+cloud+apps;Currently+leveling+up+in+LLMs+%26+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=AI%2FML+%7C+LLMs+%7C+RAG+Systems+%7C+Full-Stack+Dev;Building+LLM-powered+apps+%26+RAG+pipelines;Currently+leveling+up+in+Agentic+AI" alt="Typing SVG" />
 </p>
 
 ---
