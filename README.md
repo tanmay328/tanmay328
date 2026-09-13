@@ -97,15 +97,26 @@
 ### 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/tanmay328/AI_complaint_management">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=tanmay328&repo=AI_complaint_management&theme=dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/tanmay328/Vehicle-rental-system">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=tanmay328&repo=Vehicle-rental-system&theme=dark&hide_border=false" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/tanmay328/SHL-query-searching-engine">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=tanmay328&repo=SHL-query-searching-engine&theme=dark&hide_border=false" />
+  </a>
   <a href="https://github.com/tanmay328/FIFA-stats-x">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=tanmay328&repo=FIFA-stats-x&theme=dark&hide_border=false" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/tanmay328/Cloud-Based-Research_DBMS">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=tanmay328&repo=Cloud-Based-Research_DBMS&theme=dark&hide_border=false" />
   </a>
 </p>
-
-> ℹ️ These are pinned based on your two strongest, most complete repos. If you'd like a couple more projects featured here (e.g. your DeepRetinopathy or AHK bot repos), just send me their exact repo names and I'll add them.
 
 ---
 
