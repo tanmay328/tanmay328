@@ -131,18 +131,6 @@
   <img width="70%" src="https://streak-stats.demolab.com/?user=tanmay328&theme=dark&hide_border=false" />
 </p>
 
-### 🔥 Contribution Streak & Activity Graph
-
-<p align="center">
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tanmay328&theme=react-dark&hide_border=true" />
-</p>
-
-### 🏆 Trophies (Total Repos, Stars, Commits & More)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanmay328&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
 ---
 
 <p align="center">
