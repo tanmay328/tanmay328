@@ -134,13 +134,13 @@
 ### 🔥 Contribution Streak & Activity Graph
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay328&theme=react-dark&hide_border=true" />
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tanmay328&theme=react-dark&hide_border=true" />
 </p>
 
 ### 🏆 Trophies (Total Repos, Stars, Commits & More)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanmay328&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanmay328&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 ---
